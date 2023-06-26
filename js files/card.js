@@ -1,67 +1,67 @@
 const cardData = [
     {
         heading: 'week one',
-        link: '/devblog pages/blogone.html'
+        link: 'devblog pages/blogone.html'
     },
 
     {
         heading: 'week two',
-        link: '/devblog pages/blogtwo.html'
+        link: 'devblog pages/blogtwo.html'
     },
 
     {
         heading: 'week three',
-        link: '/devblog pages/blogthree.html'
+        link: 'devblog pages/blogthree.html'
     },
 
     {
         heading: 'week four',
-        link: '/devblog pages/blogfour.html'
+        link: 'devblog pages/blogfour.html'
     },
 
     {
         heading: 'week five',
-        link: '/devblog pages/blogfive.html'
+        link: 'devblog pages/blogfive.html'
     },
 
     {
         heading: 'week six',
-        link: '/devblog pages/blogsix.html'
+        link: 'devblog pages/blogsix.html'
     },
 
     {
         heading: 'week seven',
-        link: '/devblog pages/blogseven.html'
+        link: 'devblog pages/blogseven.html'
     },
 
     {
         heading: 'week eight',
-        link: '/devblog pages/blogeight.html'
+        link: 'devblog pages/blogeight.html'
     },
 
     {
         heading: 'week nine',
-        link: '/devblog pages/blognine.html'
+        link: 'devblog pages/blognine.html'
     },
 
     {
         heading: 'week ten',
-        link: '/devblog pages/blogten.html'
+        link: 'devblog pages/blogten.html'
     },
     
     {
         heading: 'week eleven',
-        link: '/devblog pages/blogeleven.html'
+        link: 'devblog pages/blogeleven.html'
     },
 
     {
         heading: 'week twelve',
-        link: '/devblog pages/blogtwelve.html'
+        link: 'devblog pages/blogtwelve.html'
     },
 
     {
         heading: 'week thirteen',
-        link: '/devblog pages/blogthirteen.html'
+        link: 'devblog pages/blogthirteen.html'
     },
 
 ]

@@ -2,12 +2,12 @@ const cardData = [
     {
         heading: 'essay one',
         body: 'topic: the daily sun',
-        link: '/essay pages/essayone.html'
+        link: 'essay pages/essayone.html'
     },
     {
         heading: 'essay two',
         body: 'topic: the impact of algorithmic culture and AI on the internet ',
-        link: '/essay pages/essaytwo.html'
+        link: 'essay pages/essaytwo.html'
     },
 
 ]
