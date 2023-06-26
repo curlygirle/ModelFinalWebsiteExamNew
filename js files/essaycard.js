@@ -20,7 +20,7 @@ const cardData = [
            aliquam minus provident. Temporibus nisi veniam nihil ut vel sed
            provident quae.
         </p>
-        <a href="/essay pages/essayone.html"></a>
+        <a href="essay pages/essayone.html"></a>
 </div> */}
 
 const postContainer = document.querySelector('.essay-card-con');
